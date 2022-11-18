@@ -12,11 +12,17 @@ Hello, my name is krit, .
 
 📖 Before starting college in August __2018__, I was, _by all means_, a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
 
-📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
-
-📖 Not until August __2021__ did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
-
-📖 I officially became a Software Engineer in August __2022__ after managing to _get out of_ college 3 months before that 🙏🏻
+📖 Hello, I’m krit ,but you can call me “ T.boy ” that’s my nick name.
+I was Born in 1996 and raised in Bangkok , Thailand. I’m a half 
+Thai half Nigeria on a journey to know what it means to be truly creative 
+entrepreneur. I especially enjoy the Technology of how app is creates . I 
+also like to dabble in all types of mediums and genres such as TechStartup , AI , Machine learning. I intend to experiment with other avenues 
+such as Coding and how Technology can solve the problem in the near 
+future.
+I’m actively seeking opportunities to hone both my technical skills and 
+soft skills for Tech and management. I love the endless possibilities the 
+creative process brings. And I hope that this portfolio brings you as much 
+joy as it bring me
 
 📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
 
