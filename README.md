@@ -7,7 +7,7 @@ Hello, my name is krit, .
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
+    <img width="90%" src="./assets/data_science.jpg">
 </div>
 
 📖 Before starting college in August __2018__, I was, _by all means_, a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
