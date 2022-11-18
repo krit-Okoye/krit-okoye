@@ -1,5 +1,6 @@
 ### Hi there 👋, Welcome to my GitHub Profile!
 #### My name is krit I'm a data scientist
+<img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 ![My name is krit I'm a data scientist](https://www.datanami.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix-768x237.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
