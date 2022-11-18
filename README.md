@@ -4,7 +4,7 @@ Hello, my name is krit, .
 
 # Hi there! Welcome to my GitHub Profile! 👋
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> My name is krit, I'm a data scientist <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./assets/data_science.jpg">
