@@ -42,30 +42,7 @@ joy as it bring me
 </div>
 
 ## 📊 Stats
-<!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
 
-<!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
-
-<!-- LeetCode Stats Card -->
-<!-- <p align="center">
-  <a href="https://leetcode.com/ginny100" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=ginny100&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-  </a>
-</p> -->
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ginny100&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ginny100&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p>
-
-<!-- GitHub Activity Graph -->
-![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginny100&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
