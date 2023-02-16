@@ -44,5 +44,6 @@ joy as it bring me
 ## 📊 Stats
 
 
-## 🏆 GitHub Trophies
+## 🏆 Certificates 
+
 
