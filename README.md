@@ -47,8 +47,8 @@ joy as it bring me
 ## 🏆 Certificates 
 
 <div>
-    <img align="right" img width="40%"  src="./assets/quote2.jpeg">
-    <img align="left" img width="40%" src="./assets/quote2.jpeg">
+    <img align="right" img width="45%"  src="./assets/quote2.jpeg">
+    <img align="left" img width="45%" src="./assets/quote2.jpeg">
 </div>
 
 
