@@ -48,7 +48,15 @@ joy as it bring me
 
 <div>
     <img align="right" img width="45%"  src="./assets/how to learn">
-    <img align="left" img width="45%" src="./assets/quote2.jpeg">
+    <img align="left" img width="45%" src="./assets/Data Analytics">
 </div>
 
+<div>
+    <img align="right" img width="45%"  src="./assets/ML form stanford">
+    <img align="left" img width="45%" src="./assets/MLfor trading">
+</div>
 
+<div>
+    <img align="right" img width="45%"  src="./assets/hPM form google project">
+    <img align="left" img width="45%" src="./assets/DeFi">
+</div>
