@@ -47,7 +47,7 @@ joy as it bring me
 ## 🏆 Certificates 
 
 <div>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="right" img width="45%"  src="./assets/how to learn">
+     <img align="right" img width="45%"  src="./assets/how to learn">
     <img align="left" img width="45%" src="./assets/Data Analytics">
 </div>
 
@@ -59,7 +59,8 @@ joy as it bring me
 
 <div>
     <img align="left" img width="45%" src="./assets/ML for trading">
-    <img align="right" img width="45%"  src="./assets/PM form google project">
+    <a href="[https://www.w3schools.com/css/](https://www.coursera.org/account/accomplishments/specialization/certificate/XXP8GEFNCAHB)" target="_blank" rel="noreferrer">
+        <img align="right" img width="45%"  src="./assets/PM form google project"></a>
     
 </div>
  
