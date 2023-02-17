@@ -50,8 +50,8 @@ joy as it bring me
     <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE"        target="_blank" rel="noreferrer">
         <img align="right" img width="45%"  src="./assets/how to learn"></a>
     
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7XBMBGE4CZJD"        target="_blank" rel="noreferrer">
-            <img align="left" img width="45%" src="./assets/Data Analytics"></a>
+   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7XBMBGE4CZJD"          target="_blank" rel="noreferrer">
+        <img align="left" img width="45%" src="./assets/Data Analytics"></a>
 </div>
 
 <div>
