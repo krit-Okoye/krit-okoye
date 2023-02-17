@@ -51,7 +51,11 @@ joy as it bring me
     <img align="left" img width="45%" src="./assets/Data Analytics">
 </div>
 
-
+<div>
+    <img align="left" img width="45%" src="./assets/ML by Stanford">
+    <img align="right" img width="45%"  src="./assets/DeFi">
+    
+</div>
 
 <div>
     <img align="left" img width="45%" src="./assets/ML for trading">
