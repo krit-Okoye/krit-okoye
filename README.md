@@ -50,7 +50,7 @@ joy as it bring me
     <img align="right" img width="45%"  src="./assets/how to learn">
     <img align="left" img width="45%" src="./assets/Data Analytics">
 </div>
-
+<br>
 <div>
     <img align="right" img width="45%" src="./assets/ML form stanford">
     <img align="left" img width="45%" src="./assets/ML form stanford">
