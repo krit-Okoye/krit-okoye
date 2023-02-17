@@ -48,19 +48,18 @@ joy as it bring me
 
 <div>
     <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE"        target="_blank" rel="noreferrer">
-     <img align="right" img width="45%"  src="./assets/how to learn">
+        <img align="right" img width="45%"  src="./assets/how to learn"></a>
     
         <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7XBMBGE4CZJD"        target="_blank" rel="noreferrer">
-    <img align="left" img width="45%" src="./assets/Data Analytics">
+            <img align="left" img width="45%" src="./assets/Data Analytics"></a>
 </div>
 
 <div>
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BYZ7TJT3LJ5Z"        target="_blank" rel="noreferrer">
-    <img align="left" img width="45%" src="./assets/ML by Stanford">
+        <img align="left" img width="45%" src="./assets/ML by Stanford"></a>
         
      <a href="https://www.coursera.org/account/accomplishments/specialization/E8HAJY2T8H9Q"        target="_blank" rel="noreferrer">   
-    <img align="right" img width="45%"  src="./assets/DeFi">
-    
+         <img align="right" img width="45%"  src="./assets/DeFi"></a>
 </div>
 
 <div>
