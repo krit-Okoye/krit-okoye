@@ -47,12 +47,18 @@ joy as it bring me
 ## 🏆 Certificates 
 
 <div>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE"        target="_blank" rel="noreferrer">
      <img align="right" img width="45%"  src="./assets/how to learn">
+    
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7XBMBGE4CZJD"        target="_blank" rel="noreferrer">
     <img align="left" img width="45%" src="./assets/Data Analytics">
 </div>
 
 <div>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BYZ7TJT3LJ5Z"        target="_blank" rel="noreferrer">
     <img align="left" img width="45%" src="./assets/ML by Stanford">
+        
+     <a href="https://www.coursera.org/account/accomplishments/specialization/E8HAJY2T8H9Q"        target="_blank" rel="noreferrer">   
     <img align="right" img width="45%"  src="./assets/DeFi">
     
 </div>
