@@ -58,11 +58,11 @@ joy as it bring me
 </div>
 
 <div>
-   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YN6SWKR7HGEW" target="_blank" rel="noreferrer">
+   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YN6SWKR7HGEW"        target="_blank" rel="noreferrer">
        <img align="left" img width="45%" src="./assets/ML for trading"></a>
- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XXP8GEFNCAHB" target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/PM form google project"></a>
     
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XXP8GEFNCAHB"         target="_blank" rel="noreferrer">
+        <img align="right" img width="45%"  src="./assets/PM form google project"></a>    
 </div>
- https://www.coursera.org/account/accomplishments/specialization/certificate/YN6SWKR7HGEW
+
  
