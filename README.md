@@ -53,10 +53,10 @@ joy as it bring me
 
 <div>
     <img align="right" img width="45%"  src="./assets/ML form stanford">
-    <img align="left" img width="45%" src="./assets/MLfor trading">
+    <img align="left" img width="45%" src="./assets/ML for trading">
 </div>
 
 <div>
-    <img align="right" img width="45%"  src="./assets/hPM form google project">
+    <img align="right" img width="45%"  src="./assets/PM form google project">
     <img align="left" img width="45%" src="./assets/DeFi">
 </div>
