@@ -59,7 +59,7 @@ joy as it bring me
 
 <div>
     <img align="left" img width="45%" src="./assets/ML for trading">
- <a href="(https://www.coursera.org/account/accomplishments/specialization/certificate/XXP8GEFNCAHB)" target="_blank" rel="noreferrer">
+ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XXP8GEFNCAHB" target="_blank" rel="noreferrer">
         <img align="right" img width="45%"  src="./assets/PM form google project"></a>
     
 </div>
