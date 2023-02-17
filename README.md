@@ -47,7 +47,7 @@ joy as it bring me
 ## 🏆 Certificates 
 
 <div>
-    <img align="right" img width="45%"  src="./assets/how to learn">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="right" img width="45%"  src="./assets/how to learn">
     <img align="left" img width="45%" src="./assets/Data Analytics">
 </div>
 
