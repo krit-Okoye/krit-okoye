@@ -52,7 +52,7 @@ joy as it bring me
 </div>
 
 <div>
-    <img align="right" img width="45%"  src="./assets/ML form stanford">
+    <img align="right" img width="45%" src="./assets/ML form stanford">
     <img align="left" img width="45%" src="./assets/DeFi">
 </div>
 
