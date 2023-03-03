@@ -45,6 +45,7 @@ joy as it bring me
 
 
 ## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
 
 <div>
     <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE"        target="_blank" rel="noreferrer">
