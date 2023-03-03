@@ -48,8 +48,8 @@ joy as it bring me
 To verify the certificates, click the images to follow the links.
 
 <div>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE"        target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/how to learn"></a>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QDET4FTDAYEJ"        target="_blank" rel="noreferrer">
+        <img align="right" img width="45%"  src="https://www.coursera.org/account/accomplishments/specialization/certificate/QDET4FTDAYEJ"></a>
    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7XBMBGE4CZJD"          target="_blank" rel="noreferrer">
         <img align="left" img width="45%" src="./assets/Data Analytics"></a>
 </div>
